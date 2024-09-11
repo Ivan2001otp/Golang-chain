@@ -1,5 +1,5 @@
-Implementation of block chain in golang.
+# Implementation of block chain in golang.
 
-References : 
-Golang Youtube video tutorials.
-StackOverflow.
+## References : 
+- Golang Youtube video tutorials.
+- StackOverflow.
